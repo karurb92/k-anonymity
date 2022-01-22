@@ -4,7 +4,7 @@
 Repository was forked from here: https://github.com/kaylode/k-anonymity
 
 Our contribution:
-1. We prepared our own dataset to be anonymized. It can be found in ```/data/covid```
+1. We prepared our own dataset to be anonymized, together with quasi-identifiers' hierarchies definition. All can be found in ```/data/covid```
 2. We anonymized the dataset using the ```datafly``` algorithm for different k values. Results can be found in ```/results/covid```
 3. We calculated ```CAVG```, ```DM``` and ```NCP``` metrics for different k-values. Results are stored in ```metrics_calculated.csv```
 4. We generated plots with above-mentioned metrics, which can be found in ```/plots```
