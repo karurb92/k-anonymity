@@ -1,3 +1,7 @@
+Repo has been forked from here:
+https://github.com/kaylode/k-anonymity
+
+
 # Data anonymization using k-Anonymity
 ## ✔️ Experiments
 - Provides 5 k-anonymization method: 
