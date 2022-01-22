@@ -161,7 +161,7 @@ class _Table:
                 # Index of the attribute to generalize:
                 attribute_idx = max_attribute_idx
                 
-                print(max_cardinality, qi_names[attribute_idx])
+                #print(max_cardinality, qi_names[attribute_idx])
                 
                 self._debug("[DEBUG] Attribute with most distinct values is '%s'..." %
                             qi_names[attribute_idx], _DEBUG)
@@ -245,7 +245,7 @@ class _Table:
                 self._log("[LOG] Generalized attribute '%s'. Current generalization level is %d." %
                           (qi_names[attribute_idx], gen_levels[attribute_idx]), endl=True,
                           enabled=v)
-                print(qi_names[attribute_idx], gen_levels[attribute_idx])
+                #print(qi_names[attribute_idx], gen_levels[attribute_idx])
 
             else:
 
