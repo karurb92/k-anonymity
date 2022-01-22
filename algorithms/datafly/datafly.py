@@ -150,6 +150,7 @@ class _Table:
             # Limit the number of tuples to suppress to k:
             if count > k:
 
+                
                 # Get the attribute whose domain has the max cardinality:
                 max_cardinality, max_attribute_idx = 0, None
                 for attribute_idx in domains:
@@ -159,6 +160,9 @@ class _Table:
 
                 # Index of the attribute to generalize:
                 attribute_idx = max_attribute_idx
+                
+                print(max_cardinality, qi_names[attribute_idx])
+                
                 self._debug("[DEBUG] Attribute with most distinct values is '%s'..." %
                             qi_names[attribute_idx], _DEBUG)
                 self._log("[LOG] Current attribute with most distinct values is '%s'." %
@@ -230,6 +234,8 @@ class _Table:
 
                     # Update domain set with this attribute value:
                     domains[attribute_idx].add(qi_sequence[attribute_idx])
+                    
+                    #print(qi_sequence[attribute_idx])
 
                 self._log('', endl=True, enabled=v)
 
@@ -239,6 +245,7 @@ class _Table:
                 self._log("[LOG] Generalized attribute '%s'. Current generalization level is %d." %
                           (qi_names[attribute_idx], gen_levels[attribute_idx]), endl=True,
                           enabled=v)
+                print(qi_names[attribute_idx], gen_levels[attribute_idx])
 
             else:
 

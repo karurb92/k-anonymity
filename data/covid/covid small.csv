@@ -1,0 +1,27 @@
+ID;full_name;email;sex;race;telephone;age;date;geolocation;blood_type;case_positive_specimen_interval;case_onset_interval;process;current_status;hosp_yn;icu_yn;death_yn;underlying_conditions_yn
+0;Jonah Mclaughlin;throws1941@gmail.com;Female;Black;1-353-188-7759;34;43968;MONTGOMERY;B+;0;0;Multiple;Probable Case;No;No;No;Yes
+1;Mila Short;penny1840@live.com;Female;White;(002) 413-6593;61;44117;HAMILTON;AB-;0;0;Clinical evaluation;Probable Case;No;No;No;No
+2;Lindsay Sosa;animation1895@gmail.com;Male;White;1-429-527-6441;59;43946;CLARK;O-;0;0;Routine surveillance;Laboratory-confirmed case;No;No;No;Yes
+3;Rosendo Mullen;demo2068@yahoo.com;Male;White;1-861-586-6091;61;44519;DAVIS;AB+;1;0;Multiple;Laboratory-confirmed case;No;No;No;Yes
+4;Micheal Day;movies1809@outlook.com;Female;White;120-520-6160;60;43891;HAMILTON;B-;0;0;Multiple;Laboratory-confirmed case;No;No;No;Yes
+5;Rosio Young;audio2005@live.com;Female;White;1-640-482-5520;58;44058;HAMILTON;O+;1;0;Clinical evaluation;Laboratory-confirmed case;No;No;No;Yes
+6;Lexie Sargent;appearance2099@yahoo.com;Female;White;792-909-0932;52;44125;HAMILTON;AB-;0;0;Clinical evaluation;Probable Case;No;No;No;Yes
+7;Zackary Everett;viewpicture1952@yandex.com;Male;White;(893) 436-2975;55;43860;CLARK;B-;0;0;Multiple;Laboratory-confirmed case;No;No;No;Yes
+8;Aurelio Goodman;bag2070@yahoo.com;Female;White;-1705;59;43844;HAMILTON;AB+;1;0;Clinical evaluation;Laboratory-confirmed case;No;No;No;No
+9;Hermine Becker;dealer1946@protonmail.com;Female;White;-1192;54;44475;HAMILTON;A+;0;0;Clinical evaluation;Laboratory-confirmed case;No;No;No;Yes
+10;Kelley Irwin;medicines1933@live.com;Male;White;044-684-3048;64;44257;CLARK;A-;0;0;Multiple;Laboratory-confirmed case;No;No;No;Yes
+11;Hiedi Wolfe;contributor1857@yandex.com;Male;White;1-867-089-8603;100;44480;DAVIS;AB+;0;0;Laboratory reported;Laboratory-confirmed case;No;No;No;Yes
+12;Slyvia Boone;gotta2048@yahoo.com;Male;White;(726) 388-2244;55;44422;CUYAHOGA;B-;1;0;Multiple;Probable Case;No;No;No;Yes
+13;Brady Cross;models2027@gmail.com;Female;White;066-153-5346;15;43933;BUTLER;A-;1;0;Clinical evaluation;Laboratory-confirmed case;No;No;No;Yes
+14;Indira Blake;vip1941@gmail.com;Male;White;261.213.0397;51;44155;CLARK;O+;0;0;Multiple;Laboratory-confirmed case;No;No;No;Yes
+15;Travis Montoya;match1859@protonmail.com;Male;White;025-534-1299;58;44489;CLARK;A-;0;0;Routine surveillance;Laboratory-confirmed case;No;No;No;Yes
+16;Jaymie Beard;portsmouth1949@outlook.com;Male;White;(234) 438-0337;56;44356;CLARK;O-;1;0;Multiple;Laboratory-confirmed case;No;No;No;Yes
+17;Retta Bishop;applications2002@yahoo.com;Male;White;1-780-755-8702;57;44042;CUYAHOGA;B-;0;0;Clinical evaluation;Laboratory-confirmed case;No;No;No;Yes
+18;Katheleen Nguyen;coming1935@gmail.com;Female;White;(188) 385-2088;103;44189;FAYETTE;A-;0;0;Clinical evaluation;Laboratory-confirmed case;Yes;No;No;Yes
+19;Syreeta Workman;families2022@outlook.com;Female;White;-6521;74;44277;FAYETTE;O+;0;0;Clinical evaluation;Laboratory-confirmed case;Yes;No;No;Yes
+20;Hung Ingram;coal2013@gmail.com;Male;White;090.784.5026;56;44449;CLARK;B-;1;0;Routine surveillance;Laboratory-confirmed case;No;No;No;Yes
+21;Leandro Spencer;likely1931@yandex.com;Male;White;993-236-5069;50;44138;CUYAHOGA;AB-;1;0;Clinical evaluation;Laboratory-confirmed case;No;No;No;Yes
+22;Herbert Maldonado;hepatitis2097@outlook.com;Female;White;(582) 896-1903;63;44355;HAMILTON;B+;0;0;Clinical evaluation;Laboratory-confirmed case;No;No;No;Yes
+23;Shakita Bowman;monsters1983@live.com;Male;White;(758) 559-6746;53;44476;CLARK;A+;0;0;Multiple;Laboratory-confirmed case;No;No;No;Yes
+24;Tandra Rivera;newspaper1918@live.com;Female;White;979.549.3148;84;44065;FAYETTE;A+;1;0;Clinical evaluation;Laboratory-confirmed case;Yes;No;No;Yes
+25;Wes Marshall;begin1986@gmail.com;Female;White;720-106-1205;53;43952;HAMILTON;AB+;2;0;Other;Laboratory-confirmed case;No;No;No;Yes

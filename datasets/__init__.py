@@ -12,6 +12,11 @@ def get_dataset_params(name):
         target_var = 'method'
         IS_CAT = [False, True, False]
         max_numeric = {"age": 32.5, "children": 8}
+    elif name == Dataset.COVID:
+        QI_INDEX = [1, 2, 3, 4, 5]
+        target_var = 'death_yn'
+        IS_CAT = [True, True, False, True, True]
+        max_numeric = {"age": 120, "date": 50000} 
     elif name == Dataset.MGM:
         QI_INDEX = [1, 2, 3, 4, 5]
         target_var = 'severity'
